@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore dataset folder
+dataset/
+
+# Ignore model files
+*.h5
+
+# Ignore environment files
+.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
